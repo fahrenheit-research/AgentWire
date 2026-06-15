@@ -1,5 +1,11 @@
 <div align="center">
 
+![Fahrenheit Research](assets/banner.jpeg)
+
+</div>
+
+<div align="center">
+
 # 🔌 AgentWire
 
 ### A compact wire protocol for agent-to-agent messaging
